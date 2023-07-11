@@ -1,5 +1,9 @@
 # PACKAGES
 
+## *Utilities*
+1. *[Scroll Lock](https://www.npmjs.com/package/body-scroll-lock)*
+2. *[Masonry Layout](https://masonry.desandro.com/)*
+
 ## *Smooth Scroll*
 1. *[Lenis](https://lenis.studiofreight.com/)*
 2. *[Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/)*
@@ -16,7 +20,8 @@
 ## *Animation Libraries*
 1. *[GSAP](https://greensock.com/gsap/)*
 2. *[Framer Motion (ReactJS)](https://www.framer.com/motion/)*
-3. *[AnimeJS](https://animejs.com/)*
+3. *[VueUse Motion (VueJS)](https://motion.vueuse.org/)*
+4. *[AnimeJS](https://animejs.com/)*
 5. *[React Reveal](https://www.react-reveal.com/)*
 6. *[React Spring](https://www.react-spring.dev/)* 
 7. *[Ani JS](https://anijs.github.io/)*
@@ -43,3 +48,8 @@
 3. *[Select2](https://select2.org/)*
 4. *[Vue-Select](https://github.com/sagalbot/vue-select)*
 5. *[React-Select](https://react-select.com/home)*
+
+## *CSS Animation Libraries*
+1. *[Animista](https://animista.net/)*
+2. *[Animate.css](https://animate.style/)*
+3. *[Pure CSS Loaders](https://loading.io/css/)*
